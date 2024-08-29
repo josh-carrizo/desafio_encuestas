@@ -30,12 +30,3 @@ def MostrarPregunta(self):
         retorno = retorno + f'{a.MostrarAlternativa()}\n'
         print(retorno)
     return retorno
-
-# def ConsultarPregunta(self):
-#     pass
-# def ModificarPregunta(self):
-#     pass
-# def MostrarAyuda(self):
-#     pass
-# def MostrarAlternativa(self):
-#     print(a._alternativas)
